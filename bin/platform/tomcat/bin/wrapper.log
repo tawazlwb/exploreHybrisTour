@@ -1,0 +1,7 @@
+FATAL  | wrapper  | 2018/07/13 11:42:57 | Failed to load configuration: D:\ikheiryLab\littleconcert\hybris\bin\platform\tomcat\conf\wrapper.conf
+FATAL  | wrapper  | 2018/07/13 11:43:25 | Failed to load configuration: D:\ikheiryLab\littleconcert\hybris\bin\platform\tomcat\conf\wrapper.conf
+FATAL  | wrapper  | 2018/07/13 11:49:50 | Failed to load configuration: D:\ikheiryLab\littleconcert\hybris\bin\platform\tomcat\bin\"
+FATAL  | wrapper  | 2018/07/13 11:51:11 | The argument '' is not a valid property name-value pair.
+FATAL  | wrapper  | 2018/07/13 11:51:11 | The argument '' is not a valid property name-value pair.
+FATAL  | wrapper  | 2018/07/13 11:52:10 | The argument '' is not a valid property name-value pair.
+FATAL  | wrapper  | 2018/07/13 11:52:10 | The argument '' is not a valid property name-value pair.
