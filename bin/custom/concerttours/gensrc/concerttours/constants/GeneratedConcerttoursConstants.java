@@ -1,7 +1,7 @@
 /*
  * ----------------------------------------------------------------
  * --- WARNING: THIS FILE IS GENERATED AND WILL BE OVERWRITTEN! ---
- * --- Generated at 18 juil. 2018 16:47:37                      ---
+ * --- Generated at 18 juil. 2018 18:54:14                      ---
  * ----------------------------------------------------------------
  */
 package concerttours.constants;
